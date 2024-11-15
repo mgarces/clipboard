@@ -16,7 +16,7 @@ $ Add-Type -AssemblyName System.IO.Compression.FileSystem ; [System.IO.Compressi
 
 
 # Create the runner and start the configuration experience
-$ ./config.cmd --url https://github.com/mgarces/open-esp-sprinklers --token AAA6ZKOV2KX44US6FPIPVNDHG5EJW
+$ ./config.cmd --url https://github.com/mgarces/open-esp-sprinklers --token <TOKEN>
 # Run it!
 $ ./run.cmd
 
