@@ -1,9 +1,5 @@
-HqF4oYF7G8t2bB7t
 
-T76Nt7k7nD4GLDV8ui3Go#
-
-B6E8B433-4AE3-448D-BD5B-161BBF1CAA35
-
+JV!q#M@NHd@A874wxt85b9-123123123547
 
 # Create a folder under the drive root
 $ mkdir actions-runner; cd actions-runner
@@ -16,15 +12,10 @@ $ Add-Type -AssemblyName System.IO.Compression.FileSystem ; [System.IO.Compressi
 
 
 # Create the runner and start the configuration experience
-$ ./config.cmd --url https://github.com/mgarces/open-esp-sprinklers --token <TOKEN>
+$ ./config.cmd --url https://github.com/ --token <TOKEN>
 # Run it!
 $ ./run.cmd
 
 
 # Use this YAML in your workflow file for each job
 runs-on: self-hosted
-
-
-
-
-AAA6-ZKLA6-HDZL4E-V7T23DY-3HHMND333
